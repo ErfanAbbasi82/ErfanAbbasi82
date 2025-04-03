@@ -30,10 +30,10 @@ I'm an independent Front-End developer building my version of the digital world 
 ### [Portfolio Website](https://portfolio.erfanabbasidesign.ir)
 A sleek, responsive portfolio crafted with pure HTML, CSS, and JavaScript, featuring smooth animations
 
-### [Movie Website](/)
+### [Movie Website](https://movie.portfolio.erfanabbasidesign.ir)
 Interactive movie database with API integration—built with React hooks and Tailwind's utility-first CSS.
 
-### [Shoes Website](/)
+### [Shoes Website](https://nike.portfolio.erfanabbasidesign.ir)
 High-performance, mobile-first responsive design powered by React and Tailwind .
 
 ---
